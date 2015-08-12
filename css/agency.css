@@ -69,6 +69,8 @@ h6 {
     color: #fff;
     background-attachment: fixed;
     background-image: url(../img/closing-bg.jpg);
+    max-width: 100%;
+    max-height: auto;
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -279,6 +281,8 @@ header {
     color: #fff;
     background-attachment: fixed;
     background-image: url(../img/header-bg.jpg);
+    max-width: 100%;
+    max-height: auto;
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;

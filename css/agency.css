@@ -68,13 +68,13 @@ h6 {
     text-align: center;
     color: #fff;
     background-attachment: fixed;
-    background-image: url(../img/closing-bg.jpg) no-repeat fixed;
+    background-image: url(../img/closing-bg.jpg);
     background-position: center center;
     background-repeat: none;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    background-size: contain;
-    -o-background-size: contain;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 
 .bg-darkest-gray {
@@ -278,13 +278,13 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: fixed;
-    background-image: url(../img/header-bg.jpg) no-repeat fixed;
+    background-image: url(../img/header-bg.jpg);
     background-position: center center;
     background-repeat: none;
-    -webkit-background-size: contain;
-    -moz-background-size: contain;
-    background-size: contain;
-    -o-background-size: contain;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
 }
 
 header .intro-text {
